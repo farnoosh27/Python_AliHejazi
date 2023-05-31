@@ -1,3 +1,3 @@
 # Python_AliHejazi
 
-There are many examples demonstrating the use of built-in Python functions. In this tutorial, you’ll learn how to **define your own Python function**. You’ll learn when to divide your program into separate user-defined functions and what tools you’ll need to do this.
+In this repository, I am trying to post what I learn in Python thought by Ali Hejazi!
