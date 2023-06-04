@@ -5,3 +5,4 @@ The course starts from a very basic Python and data structures such as Array, Li
 * Data Structures
 * Loops (for/while)
 * Functions
+* Object Oriented Programming
